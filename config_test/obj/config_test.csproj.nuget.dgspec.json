@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dom-linux/prog/config_test/config_test/config_test.csproj": {}
+  },
+  "projects": {
+    "/home/dom-linux/prog/config_test/config_test/config_test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dom-linux/prog/config_test/config_test/config_test.csproj",
+        "projectName": "config_test",
+        "projectPath": "/home/dom-linux/prog/config_test/config_test/config_test.csproj",
+        "packagesPath": "/home/dom-linux/.nuget/packages/",
+        "outputPath": "/home/dom-linux/prog/config_test/config_test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dom-linux/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/dom-linux/.dotnet/sdk/8.0.411/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
