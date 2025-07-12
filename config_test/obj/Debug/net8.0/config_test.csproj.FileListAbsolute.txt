@@ -12,3 +12,4 @@
 /home/dom-linux/prog/config_test/config_test/obj/Debug/net8.0/config_test.pdb
 /home/dom-linux/prog/config_test/config_test/obj/Debug/net8.0/config_test.genruntimeconfig.cache
 /home/dom-linux/prog/config_test/config_test/obj/Debug/net8.0/ref/config_test.dll
+/home/dom-linux/prog/config_test/config_test/obj/Debug/net8.0/config_test.sourcelink.json
